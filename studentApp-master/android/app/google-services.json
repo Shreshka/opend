@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106225808688",
+    "firebase_url": "https://opendoorlms.firebaseio.com",
+    "project_id": "opendoorlms",
+    "storage_bucket": "opendoorlms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106225808688:android:14506e1df68f0493fa44f5",
+        "android_client_info": {
+          "package_name": "com.geeknatal.Student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106225808688-ev3er04opfnk40ap023e42n3oaum4mpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geeknatal.Student",
+            "certificate_hash": "2f5b6568cc87ec1d40069925f3a1e137b1dae1f5"
+          }
+        },
+        {
+          "client_id": "106225808688-t8les1s876nkf9ehcnblto8jkq6tdgms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTN3T7wa5xmJuw8EN6TqFwCsfd3QybAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106225808688-t8les1s876nkf9ehcnblto8jkq6tdgms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
